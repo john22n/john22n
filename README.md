@@ -1,12 +1,16 @@
-# John Noriega
+# Hey, I'm John 👋
 
 **Software Engineer · Backend, Full-Stack & Applied AI**
 
 Denver, Colorado · Open to backend, full-stack, and AI software engineering roles
 
-I build applications that connect AI to real workflows—from voice agents and CRM integrations to full-stack business tools. My projects span Python, TypeScript, and Go, with a focus on APIs, data retrieval, and the systems around the model.
+I like building things that do something useful: voice agents that handle calls, AI tools that help people work, and APIs that connect it all. I work with Python, TypeScript, and Go, and enjoy getting into the backend details behind a good user experience.
 
-## Selected work
+Away from the keyboard, I'm into **basketball 🏀, boxing 🥊, and sports in general**. Code, hoops, fight night—there's plenty to talk about.
+
+## 🏀 The starting lineup
+
+A few projects worth checking out:
 
 ### [Billboard Source Voicemail AI](https://github.com/john22n/billboard-source-voicemail-ai)
 **Python · Pipecat · Twilio · Docker · OpenTelemetry / Jaeger**
@@ -36,15 +40,15 @@ A retrieval-augmented generation project exploring keyword, semantic, and hybrid
 
 A command-line Pokédex built around an HTTP API client and an in-memory cache with mutex-protected access and periodic background cleanup. A focused project for developing Go fundamentals: packages, API integration, concurrency, and tests.
 
-## Technical focus
+## 🧰 My toolkit
 
 - **Backend:** Python, Go, HTTP APIs, webhooks, WebSockets, PostgreSQL, external-service integrations.
 - **Full-stack:** TypeScript, React, Next.js, authenticated application workflows.
 - **Applied AI:** Voice agents, retrieval-augmented generation, hybrid search, LLM tool use.
 - **Delivery:** Docker, GitHub Actions, Playwright, OpenTelemetry, Jaeger.
 
-## What I'm looking for
+## 🤝 Looking for my next team
 
 Backend and full-stack roles using **Go (Golang) or Python**, and **AI software engineering** roles building useful applications around language models. I'm especially interested in API development, voice AI, retrieval systems, and business-process automation.
 
-Explore the projects above for implementation details and code.
+If your team is building something in that space, I'd love to talk. Basketball and boxing conversations are welcome, too.
