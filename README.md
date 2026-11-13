@@ -4,6 +4,8 @@
 
 Denver, Colorado · Open to backend, full-stack, and AI software engineering roles
 
+[Portfolio](https://john22n-iii.com) · [LinkedIn](https://www.linkedin.com/in/juan-noriega/)
+
 I like building things that do something useful: voice agents that handle calls, AI tools that help people work, and APIs that connect it all. I work with Python, TypeScript, and Go, and enjoy getting into the backend details behind a good user experience.
 
 Away from the keyboard, I'm into **basketball 🏀, boxing 🥊, and sports in general**. Code, hoops, fight night—there's plenty to talk about.
@@ -25,6 +27,8 @@ A conversational voice application for billboard sales inquiries, with caller lo
 **TypeScript · Next.js · React · PostgreSQL · OpenAI · Twilio**
 
 A full-stack application for billboard sales workflows, combining AI creative tools, CRM integrations, and telephony administration.
+
+The product has supported **more than $2M in sales since its late-January 2026 launch**, as of November 2026. I worked on it as a consultant from January 2025 and joined Billboard Source full-time in July 2026. This is a product-level sales outcome across that period, not revenue attributed to the voice agent alone.
 
 - Connects AI-assisted creative generation to lead submission and attachment workflows.
 - Provides authenticated administrative tools for call recordings and transcripts.
